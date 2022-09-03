@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-angular-8cde5": {
+      "hosting": {
+        "todo-angular": [
+          "todo-angular-8cde5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-angular-8cde5"
+  }
+}
